@@ -3,7 +3,7 @@
 ## Business background
 ### ¿Quien es el cliente, y cual es el dominio del cliente en el negocio?
 
-   El cliente es una entidad financiera que ofrece productos de ahorro y crédito a un segmento de clientes específico, la cual pertenece al sector solidario en Colombia
+   El cliente es una entidad financiera que ofrece productos de ahorro y crédito a un segmento de clientes específico, la cual pertenece al sector solidario en Colombia.
 * What business problems are we trying to address?
 
 ## Scope
