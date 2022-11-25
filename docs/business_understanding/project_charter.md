@@ -4,8 +4,13 @@
 ### ¿Quien es el cliente, y cual es el dominio del cliente en el negocio?
 
    El cliente es una entidad financiera que ofrece productos de ahorro y crédito a un segmento de clientes específico, la cual pertenece al sector solidario en Colombia.
-* What business problems are we trying to address?
+### ¿Qué problemas de negocio estamos tratando de abordar? 
 
+Evaluar el riesgo de crédito, es de gran importancia para una entidad financiera, pues busca evitar pérdidas que pueden estar relacionadas a cualquier tipo de decisión de concesión de crédito de forma inapropiada. 
+
+Para la entidad financiera es importante asegurar que el aumento en la aprobación de créditos, no se convierta luego en un aumento en los casos de morosidad de los consumidores ya que esto afecta de manera directa la rentabilidad de estas entidades. 
+
+Asimismo, es fundamental conocer con anticipación la máxima mora en que incurrirá una obligación, y poder tomar decisiones más objetivas y eficientes sobre el otorgamiento de crédito y sobre los términos que se establecerán para sus diferentes productos. 
 ## Scope
 * What data science solutions are we trying to build?
 * What will we do?
