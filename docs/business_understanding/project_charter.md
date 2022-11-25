@@ -11,6 +11,8 @@ Para la entidad financiera es importante asegurar que el aumento en la aprobaci�
 
 Asimismo, es fundamental conocer con anticipación la máxima mora en que incurrirá una obligación, y poder tomar decisiones más objetivas y eficientes sobre el otorgamiento de crédito y sobre los términos que se establecerán para sus diferentes productos. 
 
+Existe un área encargada de evaluar las solicitudes de crédito que hacen los clientes. Inicialmente deben recolectar información relevante que ayude a la toma de decisiones. Otro requisito es que toda la información que le den a la Entidad financiera debe ser verificable de alguna manera. Como proceso adicional, el equipo encargado confirma las referencias crediticias del cliente aspirante al crédito en plataformas como Datacrédito. Luego de este proceso una persona se encarga de consignar toda la información en una tabla de Excel donde todos pueden acceder a ella y posteriormente hacer una evaluación conjunta donde basados en ciertas métricas, deciden si el cliente tiene la capacidad de endeudamiento respecto al cupo y plazo de pago solicitado para finalmente denegar o aprobar el crédito. Muchas veces este proceso se vuelve engorroso y difícil de llevar a cabo ya que requiere un estudio muy detallado del cliente y de su caso puntual, lo cual conlleva a que las personas encargadas del proceso deban dedicar más tiempo del debido en esta actividad.
+
 ## Scope
 ### ¿Cuál solución de ciencia de datos se desea realizar?
 La construcción de un modelo de Scoring de otorgamiento de crédito que, mediante el análisis de variables cualitativas y cuantitativas, base de datos facilitada por la entidad financiera, permita identificar posible default de una obligación y de esta manera se pretenda definir perfiles de clientes propensos al incumplimiento de sus obligaciones y de buen comportamiento. 
@@ -33,12 +35,14 @@ Se espera que esta solución sea consumida por el cliente a través de una aplic
 ### ¿Cuáles son los objetivos cualitativos? (e.g. reduce user churn)
 El objetivo cualitativo busca minimizar el otorgamiento de créditos con una mayor probabilidad de incumplimiento según lo establecido en las políticas de créditos al interior de la entidad financiera y normatividad legal vigente.
 
-Analizar la base de datos de la entidad financiera  para encontrar características y relaciones importantes que brinden información relevante al modelo
+Con ayuda de herramientas de software se propone utilizar los datos de los clientes que se ha recolectado para implementar un modelo de score crediticio, el cual se integre a su lógica de negocio y ayude a las personas encargadas de determinar la viabilidad del crédito, a tomar una decisión teniendo en cuenta los resultados que este modelo arroje.
 
 ### What is a quantifiable metric  (e.g. reduce the fraction of users with 4-week inactivity)
 ### Quantify what improvement in the values of the metrics are useful for the customer scenario (e.g. reduce the  fraction of users with 4-week inactivity by 20%) 
-Alcanzar un alto nivel de precisión en el xxx en las solicitudes de crédito a un xx% de confiabilidad.
-Aplicar un modelo  el cual presente resultados mínimos del 70 % de confiabilidad , que sirvan como una medida de confianza para toma de decisiones
+* Alcanzar un alto nivel de precisión en el xxx en las solicitudes de crédito a un xx% de confiabilidad.
+* Aplicar un modelo  el cual presente resultados mínimos del 70 % de confiabilidad , que sirvan como una medida de confianza para toma de decisiones
+* Alto impacto en la reducción de la cartera al contar con una predicción confiable del 70% de  la posibilidad de incurrir en mora una obligación.
+* Implementar el modelo complementaría complementaría el estudio de crédito y mejoraría la cartera en un xx % aproximadamente, lo que impactaría directamente en el flujo de recursos disponibles de la entidad.
 
 ### What is the baseline (current) value of the metric? (e.g. current fraction of users with 4-week inactivity = 60%)
 Actualmente el área de otorgamiento de crédito se demora xx días para el análisis de una solicitud de crédito  más de 15 minutos  y determinar si es viable su aprobación
@@ -76,7 +80,10 @@ Los datos de entrada registrados por el usuario para cada una de las variables p
 Se definirán políticas, a través de las cuales se defina el apetito al riesgo en concordancia con el resultado del modelo y otras variables de análisis. 
 
   * Haga un diagrama en 1 diapositiva mostrando el flujo de datos de extremo a extremo y la arquitectura de decisiones.
-    * If there is a substantial change in the customer's business workflow, make a before/after diagram showing the data flow.
+    
+    ![image](https://user-images.githubusercontent.com/111644646/204056381-136e51eb-3c48-4d0c-ae18-17d466cb4839.png)
+![image](https://user-images.githubusercontent.com/111644646/204056505-4eef51d6-f9b8-4d63-8a96-447780c03ba9.png)
+
 
 ## Communication
 ### ¿Cómo nos mantendremos en contacto? ¿Reuniones semanales? 
