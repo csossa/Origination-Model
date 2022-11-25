@@ -12,7 +12,7 @@ _**For ease of modifying this report, placeholder links are included in this pag
 
 | Dataset Name | Original Location   | Destination Location  | Data Movement Tools / Scripts | Link to Report |
 | ---:| ---: | ---: | ---: | -----: |
-| Data | La ubicación original de la base de datos está en el core financiero de la entidad  | El destino de esta base de datos  será guardado en el core de la entidad financiera| [script1.py](link/to/python/script/file/in/Code) | [Dataset 1 Report](link/to/report1)|
+| Data |La ubicación original de la base de datos está en el core financiero de la entidad|El destino de esta base de datos  será guardado en el core de la entidad financiera| [script1.py](link/to/python/script/file/in/Code) | [Dataset 1 Report](link/to/report1)|
 
 * Dataset1 summary. <Provide brief summary of the data, such as how to access the data. More detailed information should be in the Dataset1 Report.>
 * Dataset2 summary. <Provide brief summary of the data, such as how to access the data. More detailed information should be in the Dataset2 Report.> 
