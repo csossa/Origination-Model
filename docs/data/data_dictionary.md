@@ -8,6 +8,7 @@
 La base de datos que se utilizará para el trabajo contiene el histórico de seguimiento de créditos de 3.336 clientes, correspondiente al periodo 2009 - 2022, donde se identificaron 28 variables con relación a cada registro de clientes de la entidad financiera. 
 
 ## Table 1
+La Tabla 1 muestra las variables que se usaron en el modelo, en total son 27 variables independientes y  1 variable dependiente Max_mora
 
 | column | type | description |
 | --- | --- | --- |
