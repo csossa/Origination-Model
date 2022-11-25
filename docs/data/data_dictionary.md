@@ -12,8 +12,6 @@ La base de datos que se utilizará para el trabajo contiene el histórico de seg
 
 ## Table 1
 
-Here you must describe the table
-
 | column | type | description |
 | --- | --- | --- |
 | #Obligación 	| Object | Número interno que identifica el crédito o la obligación| 
