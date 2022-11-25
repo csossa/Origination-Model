@@ -52,14 +52,21 @@ Actualmente el área de otorgamiento de crédito se demora xx días para el aná
   * after some pre-aggregation on-prem,
   * Sampled data enough for modeling 
 
-### What tools and data storage/analytics resources will be used in the solution e.g.,
-  * ASA for stream aggregation
-  * HDI/Hive/R/Python for feature construction, aggregation and sampling
+### ¿Qué herramientas y recursos de análisis/almacenamiento de datos se utilizarán en la solución?
+El modelo será usado a través de una aplicación web dentro de un servidor local que será consumido  a través de un API. 
+
+(Esto lo vamos aplicar???)
+  * ASA for stream aggregation 
+  * Se usará Python para construcción, segmentación y muestreo de características
   * AzureML for modeling and web service operationalization
+
   
-### How will the score or operationalized web service(s) (RRS and/or BES) be consumed in the business workflow of the customer? If applicable, write down pseudo code for the APIs of the web service calls.
-  * How will the customer use the model results to make decisions
-  * Data movement pipeline in production
+### ¿Cómo se consumirá la puntuación o el servicio web operacionalizado (RRS y/o BES) en el flujo de trabajo empresarial del cliente? Si procede, escriba el pseudocódigo de las API de las llamadas al servicio web.
+Los datos de entrada registrados por el usuario para cada una de las variables predictoras serán preprocesadas antes de ser consumidos por el modelo. La conexión se realizará a través de un API que llevará los datos planos al servidor local para luego ser preprocesados. 
+
+  *  ¿Cómo usará el cliente los resultados del modelo para tomar decisiones? 
+Se definirán políticas, a través de las cuales se defina el apetito al riesgo en concordancia con el resultado del modelo y otras variables de análisis. 
+
   * Haga un diagrama en 1 diapositiva mostrando el flujo de datos de extremo a extremo y la arquitectura de decisiones.
     * If there is a substantial change in the customer's business workflow, make a before/after diagram showing the data flow.
 
