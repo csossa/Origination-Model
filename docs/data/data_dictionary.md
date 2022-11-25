@@ -16,7 +16,8 @@ Here you must describe the table
 
 | column | type | description |
 | --- | --- | --- |
-| col1 | INT | Example column |
+| #Obligación 	| Object | Número interno que identifica el crédito o la obligación| 
+| Modalidad	| Object | número que agrupa el tipo de cartera (comercial, vivienda, consumo) | 
 
 # Database Name 2
 
