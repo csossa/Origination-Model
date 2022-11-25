@@ -49,7 +49,7 @@ Actualmente el área de otorgamiento de crédito se demora xx días para el aná
 ## Plan
 * Phases (milestones), timeline, short description of what we'll do in each phase.
 
-Actividades	Semana 1	Semana 2	semana 3	semana4
+Actividades	Semana 1	Semana 2	Semana 3	Semana 4
 Información del proyecto				
 Definir las funciones y responsabilidades del equipo del proyecto				
 Identificar las metas del proyecto y los objetivos del proyecto				
