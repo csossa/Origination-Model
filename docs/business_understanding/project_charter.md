@@ -31,18 +31,38 @@ Se espera que esta solución sea consumida por el cliente a través de una aplic
 	
 ## Metrics
 ### ¿Cuáles son los objetivos cualitativos? (e.g. reduce user churn)
-El objetivo cualitativo busca minimizar el otorgamiento de créditos con una mayor probabilidad de incumplimiento según lo establecido en las políticas de créditos al interior de la entidad y normatividad legal vigente.
+El objetivo cualitativo busca minimizar el otorgamiento de créditos con una mayor probabilidad de incumplimiento según lo establecido en las políticas de créditos al interior de la entidad financiera y normatividad legal vigente.
+
+Analizar la base de datos de la entidad financiera  para encontrar características y relaciones importantes que brinden información relevante al modelo
 
 ### What is a quantifiable metric  (e.g. reduce the fraction of users with 4-week inactivity)
 ### Quantify what improvement in the values of the metrics are useful for the customer scenario (e.g. reduce the  fraction of users with 4-week inactivity by 20%) 
 Alcanzar un alto nivel de precisión en el xxx en las solicitudes de crédito a un xx% de confiabilidad.
+Aplicar un modelo  el cual presente resultados mínimos del 70 % de confiabilidad , que sirvan como una medida de confianza para toma de decisiones
 
 ### What is the baseline (current) value of the metric? (e.g. current fraction of users with 4-week inactivity = 60%)
 Actualmente el área de otorgamiento de crédito se demora xx días para el análisis de una solicitud de crédito  más de 15 minutos  y determinar si es viable su aprobación
 ### How will we measure the metric? (e.g. A/B test on a specified subset for a specified period; or comparison of performance after implementation to baseline)
 
+
+
 ## Plan
 * Phases (milestones), timeline, short description of what we'll do in each phase.
+
+Actividades	Semana 1	Semana 2	semana 3	semana4
+Información del proyecto				
+Definir las funciones y responsabilidades del equipo del proyecto				
+Identificar las metas del proyecto y los objetivos del proyecto				
+Análisis de la información				
+Recolección y exploración de los datos				
+Preprocesamiento de datos				
+Definición del modelo				
+Creación del modelo				
+Entrenamiento del modelo				
+Evaluación de modelo				
+				
+![image](https://user-images.githubusercontent.com/111644646/204054285-12a8d217-0a8d-4a7d-aa09-e738083d13c1.png)
+
 
 ## Architecture
 ### Datos
