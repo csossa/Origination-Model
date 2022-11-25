@@ -1,6 +1,6 @@
 # Data Dictionary
 
-# Database " Data"
+# Datos Scoring Model
 
 
 ![UML Diagram](/file/uml/database1)
