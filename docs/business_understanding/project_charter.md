@@ -26,10 +26,8 @@ Se espera que esta solución sea consumida por el cliente a través de una aplic
 ## Personnel
 ### ¿Quiénes están en este proyecto?
 	* Microsoft:
-		
 		* Project Manager
 		* Científicos de datos
-	
 	* Cliente:
 		* Administrador de datos
 	
