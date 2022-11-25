@@ -47,19 +47,7 @@ Actualmente el área de otorgamiento de crédito se demora xx días para el aná
 
 
 ## Plan
-* Phases (milestones), timeline, short description of what we'll do in each phase.
-
-Actividades	Semana 1	Semana 2	Semana 3	Semana 4
-Información del proyecto				
-Definir las funciones y responsabilidades del equipo del proyecto				
-Identificar las metas del proyecto y los objetivos del proyecto				
-Análisis de la información				
-Recolección y exploración de los datos				
-Preprocesamiento de datos				
-Definición del modelo				
-Creación del modelo				
-Entrenamiento del modelo				
-Evaluación de modelo				
+* Phases (milestones), timeline, short description of what we'll do in each phase.			
 				
 ![image](https://user-images.githubusercontent.com/111644646/204054285-12a8d217-0a8d-4a7d-aa09-e738083d13c1.png)
 
