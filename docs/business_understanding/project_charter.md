@@ -24,15 +24,14 @@ Para ello se tomará información histórica del comportamiento de los créditos
 Se espera que esta solución sea consumida por el cliente a través de una aplicación ubicada en la red local de la organización y a través de una conexión directa al sistema de solicitudes de crédito en la entidad financiera. 
 
 ## Personnel
-* Who are on this project:
+### ¿Quiénes están en este proyecto?
 	* Microsoft:
-		* Project lead
-		* PM
-		* Data scientist(s)
+		
+		* Project Manager
+		* Científicos de datos
 		* Account manager
 	* Client:
-		* Data administrator
-		* Business contact
+		* Administrador de datos
 	
 ## Metrics
 * What are the qualitative objectives? (e.g. reduce user churn)
