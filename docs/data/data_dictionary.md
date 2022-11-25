@@ -1,10 +1,7 @@
 # Data Dictionary
 
-In this document you must describe the tables, collections or files that you are using in the project. You can describe each database and provide UML diagrams for a better design description.
+# Database " Data"
 
-# Database Name 1 " Data"
-
-Description of the database.
 
 ![UML Diagram](/file/uml/database1)
 
