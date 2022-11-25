@@ -25,11 +25,9 @@ Se espera que esta solución sea consumida por el cliente a través de una aplic
 
 ## Personnel
 ### ¿Quiénes están en este proyecto?
-	* Microsoft:
-		* Project Manager
-		* Científicos de datos
-	* Cliente:
-		* Administrador de datos
+* Project Manager
+* Científicos de datos
+* Administrador de datos
 	
 ## Metrics
 ### ¿Cuáles son los objetivos cualitativos? (e.g. reduce user churn)
