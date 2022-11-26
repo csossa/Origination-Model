@@ -78,9 +78,7 @@ Se definirán políticas, a través de las cuales se defina el apetito al riesgo
 
   * Haga un diagrama en 1 diapositiva mostrando el flujo de datos de extremo a extremo y la arquitectura de decisiones.
     
-    ![image](https://user-images.githubusercontent.com/111644646/204056381-136e51eb-3c48-4d0c-ae18-17d466cb4839.png)
-    
-
+    ![Diagram Model](https://user-images.githubusercontent.com/59837975/204069751-aab14c80-893f-45b3-a70c-973bdebcb025.jpg)
 
 ## Communication
 ### ¿Cómo nos mantendremos en contacto? ¿Reuniones semanales? 
