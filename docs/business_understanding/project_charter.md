@@ -58,19 +58,16 @@ Actualmente el área de otorgamiento de crédito se demora xx días para el aná
 
 ## Architecture
 ### Datos
-  * What data do we expect? Raw data in the customer data sources (e.g. on-prem files, SQL, on-prem Hadoop etc.)
-* Data movement from on-prem to Azure using ADF or other data movement tools (Azcopy, EventHub etc.) to move either
-  * all the data, 
-  * after some pre-aggregation on-prem,
-  * Sampled data enough for modeling 
+  ### ¿Qué datos esperamos? Datos sin procesar en las fuentes de datos del cliente
+  * Esperamos datos tabulares desde dos fuentes un reporte en csv y datos desde SQL
+  ### Movimiento de datos de local a Azure mediante ADF u otras herramientas de movimiento de datos
+  * Inicialmente se espera transferir los datos desde AzCopy
 
 ### ¿Qué herramientas y recursos de análisis/almacenamiento de datos se utilizarán en la solución?
 El modelo será usado a través de una aplicación web dentro de un servidor local que será consumido  a través de un API. 
 
-(Esto lo vamos aplicar???)
-  * ASA for stream aggregation 
   * Se usará Python para construcción, segmentación y muestreo de características
-  * AzureML for modeling and web service operationalization
+  * AzureML para modelado y operacionalización de servicios web
 
   
 ### ¿Cómo se consumirá la puntuación o el servicio web operacionalizado (RRS y/o BES) en el flujo de trabajo empresarial del cliente? Si procede, escriba el pseudocódigo de las API de las llamadas al servicio web.
@@ -82,7 +79,7 @@ Se definirán políticas, a través de las cuales se defina el apetito al riesgo
   * Haga un diagrama en 1 diapositiva mostrando el flujo de datos de extremo a extremo y la arquitectura de decisiones.
     
     ![image](https://user-images.githubusercontent.com/111644646/204056381-136e51eb-3c48-4d0c-ae18-17d466cb4839.png)
-![image](https://user-images.githubusercontent.com/111644646/204056505-4eef51d6-f9b8-4d63-8a96-447780c03ba9.png)
+    
 
 
 ## Communication
