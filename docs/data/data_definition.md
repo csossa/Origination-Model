@@ -1,22 +1,16 @@
 # Data and Feature Definitions
 
-This document provides a central hub for the raw data sources, the processed/transformed data, and feature sets. More details of each dataset is provided in the data summary report. 
+Este documento proporciona un eje central para las fuentes de datos sin procesar, los datos procesados/transformados y los conjuntos de funciones. Se proporcionan más detalles de cada conjunto de datos en el informe de resumen de datos.
 
-For each data, an individual report describing the data schema, the meaning of each data field, and other information that is helpful for understanding the data is provided. If the dataset is the output of processing/transforming/feature engineering existing data set(s), the names of the input data sets, and the links to scripts that are used to conduct the operation are also provided. 
-
-For each dataset, the links to the sample datasets in the _**Data**_ directory are also provided. 
-
-_**For ease of modifying this report, placeholder links are included in this page, for example a link to dataset 1, but they are just placeholders pointing to a non-existent page. These should be modified to point to the actual location.**_
+Para cada dato, se proporciona un informe individual que describe el esquema de datos, el significado de cada campo de datos y otra información que es útil para comprender los datos. Si el conjunto de datos es el resultado de los conjuntos de datos existentes de procesamiento/transformación/ingeniería de características, también se proporcionan los nombres de los conjuntos de datos de entrada y los enlaces a los scripts que se utilizan para realizar la operación.
 
 ## Raw Data Sources
 
 | Dataset Name | Original Location   | Destination Location  | Data Movement Tools / Scripts | Link to Report |
 | ---:| ---: | ---: | ---: | -----: |
-| Dataset 1 | Brief description of its orignal location | Brief description of its destination location | [script1.py](link/to/python/script/file/in/Code) | [Dataset 1 Report](link/to/report1)|
-| Dataset 2 | Brief description of its orignal location | Brief description of its destination location | [script2.R](link/to/R/script/file/in/Code) | [Dataset 2 Report](link/to/report2)|
+| Data Scoring Model |La ubicación original de la base de datos está en el core financiero de la entidad|El destino será través de una aplicación web dentro de un servidor local que será consumido  a través de un API|  | |
 
-* Dataset1 summary. <Provide brief summary of the data, such as how to access the data. More detailed information should be in the Dataset1 Report.>
-* Dataset2 summary. <Provide brief summary of the data, such as how to access the data. More detailed information should be in the Dataset2 Report.> 
+* Resumen data scoring model. Los datos contienen las características sociodemográficas de los usuarios o deudores así como las características de las obligaciones en términos de su estructuración. Todos los datos se cargan desde el servidosr local de la organización y se procesan a través de SQL.
 
 ## Processed Data
 | Processed Dataset Name | Input Dataset(s)   | Data Processing Tools/Scripts | Link to Report |
