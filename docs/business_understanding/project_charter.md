@@ -85,4 +85,4 @@ Se definirán políticas, a través de las cuales se defina el apetito al riesgo
 Se realizarán sesiones a través de la metodología scrum, en la cual se contemplan reuniones diarias y metas a corto plazo. Igualmente la comunicación se realizará a través del Github frente al desarrollo del modelo que se plantea. 
 
 ### ¿Quiénes son las personas de contacto en ambos lados? 
-Las personas de contacto son el cliente, el Project  Manager y los científicos de datos. 
+Las personas de contacto son el cliente, el Project  Manager y los científicos de datos.
