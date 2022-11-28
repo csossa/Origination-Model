@@ -55,5 +55,8 @@ Asmímismo, se observa la maríz de correlaciones entre las variables númérica
 
 Por otra parte, se analiza la correlación entre la variable respuesta y las variables categóricas.
 ![image](https://user-images.githubusercontent.com/59837975/204340971-6f02478d-5826-41ea-9fa6-14ebbff4cbb1.png)
+dev
 
 
+
+master
