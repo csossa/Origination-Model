@@ -1,8 +1,6 @@
 # Infrastructure
 
-In this folder you can add infrastructure documents/guides including:
+El equipo con el que se elabora el modelo contiene las siguientes características:
 
-* Docker/kubernetes setup and management.
-* Server-based configuration (minimal system resources, VMs setup, webserver setup, among others).
-* Environment configuration (pyenv, poetry, jupyter, rstudio).
-* Execution pipelines (airflow, mlflow).
+<img width="460" alt="image" src="https://user-images.githubusercontent.com/59837975/205522295-a46e7fe8-25d2-406b-b016-400eddb763ed.png">
+
