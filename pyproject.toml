@@ -1,14 +1,20 @@
 [tool.poetry]
-name = "packagename"
+name = "Modelo Originación"
 version = "0.1.0"
-description = "Project template for data science projects"
-authors = ["Juan Lara <julara@unal.edu.co>"]
+description = "Modelo de Originación de Créditos"
+authors = ["César Sossa <analistaplaneacion@cooprofesoresun.coop>"]
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+pendulum = "^2.1.2"
+fastapi = "^0.88.0"
+scikit-learn = "^1.2.0"
+numpy = "^1.23.5"
+pydantic = "^1.10.2"
+uvicorn = "^0.20.0"
 
-[tool.poetry.dev-dependencies]
 
 [build-system]
-requires = ["poetry-core>=1.0.0"]
+requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
