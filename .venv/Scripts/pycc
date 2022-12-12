@@ -1,0 +1,3 @@
+#!C:\Users\csossa\OneDrive\MLDS6\Origination-Model\.venv\Scripts\python.exe
+from numba.pycc import main
+main()
