@@ -7,8 +7,8 @@ _Report describing the final model to be delivered - typically comprised of one 
 * What kind of model was built?
 
 ## Solution Description
-* Simple solution architecture (Data sources, solution components, data flow)
-* What is output?
+
+Se construyó un modelo xgboots, el cual posee tres elementos principales: Una función de pérdida a optimizar, un algoritmo de aprendizaje débil para realizar las predicciones y un modelo aditivo para añadir los algoritmos de aprendizaje débiles que minimizan la función de pérdida.
 
 ## Data
 * Source
