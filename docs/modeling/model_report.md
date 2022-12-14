@@ -45,4 +45,4 @@ Se entrena un modelo XGBoost que logra un accuracy de 90 %
 
 ![image](https://user-images.githubusercontent.com/111644646/207730439-d7fb8f28-a231-49bc-8fb3-2cfd23e5d483.png)
 
-
+El modelo XGBoost fue más preciso que los modelos de regresión logística, Random Forest y perceptron multicapa.
