@@ -36,3 +36,8 @@ Durante el entrenamiento, los parámetros de cada modelo débil son ajustados it
 ## Results
 * ROC/Lift charts, AUC, R^2, MAPE as appropriate
 * Performance graphs for parameters sweeps if applicable
+
+Se entrena un modelo XGBoost que logra un accuracy de 90 %.
+![image](https://user-images.githubusercontent.com/111644646/207730439-d7fb8f28-a231-49bc-8fb3-2cfd23e5d483.png)
+
+
