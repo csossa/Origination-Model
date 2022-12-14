@@ -19,19 +19,18 @@ Se construyó un modelo de regresión logística con el conjunto de datos de la 
 
 ## Model Description
 
-Para evaluar el modelo, se divide el dataset en dos partes. Se deja el 80% de los datos como datos de entrenamiento (train), y reservamos el 20% restando como datos de prueba (test). A continuación, se entrena el modelo de nuevo, pero ahora sólo con los datos de entrenamiento 
-Una vez entrenado el modelo, lo aplicamos a los datos reservados como «test», y calculamos las métricas precisión (Accurary) y exactitud (Precisión)
+Para evaluar el modelo, se divide el dataset en dos partes. Se deja el 80% de los datos como datos de entrenamiento (train), y reservamos el 20% restando como datos de prueba (test). A continuación, se entrena el modelo de nuevo, pero ahora sólo con los datos de entrenamiento. Una vez entrenado el modelo, lo aplicamos a los datos reservados como «test», y calculamos las métricas precisión (Accurary) y exactitud (Precisión)
 
 
 ## Results (Model Performance)
-* ROC/Lift charts, AUC, R^2, MAPE as appropriate
-* Performance graphs for parameters sweeps if applicable
 
 ![image](https://user-images.githubusercontent.com/111644646/207728820-cff3ff30-d5b5-48de-8817-87c5c18a7fb5.png)
 
 ## Model Understanding
 
 * Variable Importance (significance)
+
+ La Figura muestra la importancia de predictores de acuerdo con el modelo de regresión logística, se observa que la variable monto es el predictor que más pesa para determinar si se otorga una obligación a una solicitud de crédito.
 
 * Insight Derived from the Model
 
