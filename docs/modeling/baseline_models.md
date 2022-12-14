@@ -24,6 +24,8 @@ Una vez entrenado el modelo, lo aplicamos a los datos reservados como «test», 
 * ROC/Lift charts, AUC, R^2, MAPE as appropriate
 * Performance graphs for parameters sweeps if applicable
 
+![image](https://user-images.githubusercontent.com/111644646/207728820-cff3ff30-d5b5-48de-8817-87c5c18a7fb5.png)
+
 ## Model Understanding
 
 * Variable Importance (significance)
