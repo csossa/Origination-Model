@@ -19,6 +19,9 @@ Se construyó un modelo xgboots, el cual posee tres elementos principales: Una f
 
 ## Features
 * List of raw and derived features 
+
+![image](https://user-images.githubusercontent.com/111644646/207732596-c7a12be2-c89b-46e0-87eb-df00cb73288c.png)
+
 * Importance ranking.
 La Figura muestra la importancia de predictores de acuerdo con el modelo XGBoost, donde se observa que “monto” es también el predictor que más pesa para determinar si se otorga una obligación a una solicitud de crédito.
 
