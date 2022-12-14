@@ -14,6 +14,7 @@ Es la variable dependiente binaria  que puede tomar  dos posibles  valores, que 
 Es el conjunto de n variables independientes (𝑥1, 𝑥2, … , 𝑥𝑛) relacionadas con la información propia del solicitante, tomadas con el fin de explicar y/o predecir el valor de Y ( Max_mora)
  
 * What kind of model was built?
+
 Se construyó un modelo de regresión logística con el conjunto de datos de la entidad financiera para definir la precisión del modelo de scoring de originación. 
 
 ## Model Description
