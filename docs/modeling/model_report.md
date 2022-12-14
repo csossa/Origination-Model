@@ -25,6 +25,8 @@ Se construyó un modelo xgboots, el cual posee tres elementos principales: Una f
 * Selection (dates, segments)
 * Stats (counts)
 
+https://github.com/csossa/Origination-Model/blob/master/docs/data/data_summary.md
+
 ## Features
 * List of raw and derived features 
 
