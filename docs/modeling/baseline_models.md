@@ -6,11 +6,11 @@ _Baseline model is the the model a data scientist would train and evaluate quick
 
 ## Analytic Approach
 * What is target definition
-*Es la variable dependiente binaria  que puede tomar  dos posibles  valores, que se etiquetará  con 0 y 1.
+* Es la variable dependiente binaria  que puede tomar  dos posibles  valores, que se etiquetará  con 0 y 1.
 * What are inputs (description)
-*Es el conjunto de n variables independientes (𝑥1, 𝑥2, … , 𝑥𝑛) relacionadas con la información propia del solicitante, tomadas con el fin de explicar y/o predecir el valor de Y ( Dias_mora)
+* Es el conjunto de n variables independientes (𝑥1, 𝑥2, … , 𝑥𝑛) relacionadas con la información propia del solicitante, tomadas con el fin de explicar y/o predecir el valor de Y ( Dias_mora)
 * What kind of model was built?
-*Se construyó un modelo de regresión logística con el conjunto de datos de la entidad financiera para definir la precisión del modelo de scoring de originación. 
+* Se construyó un modelo de regresión logística con el conjunto de datos de la entidad financiera para definir la precisión del modelo de scoring de originación. 
 
 ## Model Description
 
