@@ -44,6 +44,8 @@ De acuerdo con el resultado obtenido en el accuaracy, se observa que el % de pre
 A partir de los resultados expuestos, se comprueba que el modelo tiene un nivel predictivo del 57%
 
 * Discussion on Overfitting (If Applicable)
+Para realizar el ajuste al modelo se utilizan las herramientas para mejorar el desbalanceo de clases smote  y imblearn; también se prueban otros modelos como RandomForest y Xgboost.
+
 
 * What other Features Can Be Generated from the Current Data
 
