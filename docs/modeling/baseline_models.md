@@ -32,7 +32,6 @@ Para evaluar el modelo, se divide el dataset en dos partes. Se deja el 80% de lo
 
  La Figura muestra la importancia de predictores de acuerdo con el modelo de regresión logística, se observa que la variable monto es el predictor que más pesa para determinar si se otorga una obligación a una solicitud de crédito.
 
-* Insight Derived from the Model
 
 ## Conclusion and Discussions for Next Steps
 
