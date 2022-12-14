@@ -37,6 +37,8 @@ Para evaluar el modelo, se divide el dataset en dos partes. Se deja el 80% de lo
 
 * Conclusion on Feasibility Assessment of the Machine Learning Task
 
+De acuerdo con el resultado obtenido en el accuaracy, se observa que el % de precisión del modelo no es suficiente para la producción y puesta en marcha. Por lo tanto, es necesario revisar y  estudiar otros modelos que se  mejoren la predicción.
+
 ![image](https://user-images.githubusercontent.com/111644646/207729070-5cc559fa-a5fd-4463-9d2c-8d7e6a9378b7.png)
 
 A partir de los resultados expuestos, se comprueba que el modelo tiene un nivel predictivo del 57%
@@ -45,4 +47,8 @@ A partir de los resultados expuestos, se comprueba que el modelo tiene un nivel 
 
 * What other Features Can Be Generated from the Current Data
 
+Otra caracteristica que podria predecir el modelo con los datos actuales sería el número de días en mora llegase a tener la futura obligación, con lo cual se realizarían agrupaciones de la variable máx-mora.
+
 * What other Relevant Data Sources Are Available to Help the Modeling
+
+Se puede construir información histórica a partir de otras variables que se encuentran dentro del formulario de solicitud de crédito del cliente. Adicionalmente, se pueden obtener características de comportamiento de pago registrados en los movimientos bancarios.
