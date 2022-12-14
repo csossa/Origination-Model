@@ -36,6 +36,9 @@ Una vez entrenado el modelo, lo aplicamos a los datos reservados como «test», 
 
 * Conclusion on Feasibility Assessment of the Machine Learning Task
 
+![image](https://user-images.githubusercontent.com/111644646/207729070-5cc559fa-a5fd-4463-9d2c-8d7e6a9378b7.png)
+A partir de los resultados expuestos, se comprueba que el modelo tiene un nivel predictivo del 57%
+
 * Discussion on Overfitting (If Applicable)
 
 * What other Features Can Be Generated from the Current Data
