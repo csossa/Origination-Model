@@ -2,9 +2,11 @@
 _Report describing the final model to be delivered - typically comprised of one or more of the models built during the life of the project_
 
 ## Analytic Approach
-* What is target definition
-* What are inputs (description)
-* What kind of model was built?
+What is target definition Es la variable dependiente binaria que puede tomar dos posibles valores, que se etiquetará con 0 y 1.
+
+What are inputs (description) Es el conjunto de n variables independientes (𝑥1, 𝑥2, … , 𝑥𝑛) relacionadas con la información propia del solicitante, tomadas con el fin de explicar y/o predecir el valor de Y ( Dias_mora)
+
+What kind of model was built? Se construyó un modelo xgboost con el conjunto de datos de la entidad financiera para definir la precisión del modelo de scoring de originación.
 
 ## Solution Description
 
