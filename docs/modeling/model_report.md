@@ -29,6 +29,10 @@ Se construyó un modelo xgboots, el cual posee tres elementos principales: Una f
 * What learner(s) were used?
 * Learner hyper-parameters
 
+XGBoost es uno algoritmo predictivo de machine learning de tipo supervisado  que se caracteriza por obtener buenos resultados de predicción con  relativamente poco esfuerzo, en muchos casos mejores que los devueltos por modelos más complejos computacionalmente, en particular para problemas con datos heterogéneos
+
+Durante el entrenamiento, los parámetros de cada modelo débil son ajustados iterativamente tratando de encontrar el mínimo de una función objetivo, que puede ser la proporción de error en la clasificación, el área bajo la curva (AUC), la raíz del error cuadrático medio (RMSE) o alguna otra.
+
 ## Results
 * ROC/Lift charts, AUC, R^2, MAPE as appropriate
 * Performance graphs for parameters sweeps if applicable
