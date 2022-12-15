@@ -19,11 +19,8 @@ Se construyó un modelo xgboost con el conjunto de datos de la entidad financier
 Se construyó un modelo xgboots, el cual posee tres elementos principales: Una función de pérdida a optimizar, un algoritmo de aprendizaje débil para realizar las predicciones y un modelo aditivo para añadir los algoritmos de aprendizaje débiles que minimizan la función de pérdida.
 
 ## Data
-* Source
-* Data Schema
-* Sampling
-* Selection (dates, segments)
-* Stats (counts)
+
+En el siguiente link se encuentra la fuente, descripción, esquema de datos y estadísticas.
 
 https://github.com/csossa/Origination-Model/blob/master/docs/data/data_summary.md
 
