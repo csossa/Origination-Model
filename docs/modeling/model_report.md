@@ -36,20 +36,14 @@ La Figura muestra la importancia de predictores de acuerdo con el modelo XGBoost
 
 
 ## Algorithm
-* Description or images of data flow graph
-  * if AzureML, link to:
-    * Training experiment
-    * Scoring workflow
-* What learner(s) were used?
-* Learner hyper-parameters
+En la siguiente imagen se describe el flujo de datos:
 
-XGBoost es uno algoritmo predictivo de machine learning de tipo supervisado  que se caracteriza por obtener buenos resultados de predicción con  relativamente poco esfuerzo, en muchos casos mejores que los devueltos por modelos más complejos computacionalmente, en particular para problemas con datos heterogéneos
+![image](https://user-images.githubusercontent.com/111644646/207741743-d684c7fa-cbe7-45a3-9ec1-6166b97479ba.png)
 
-Durante el entrenamiento, los parámetros de cada modelo débil son ajustados iterativamente tratando de encontrar el mínimo de una función objetivo, que puede ser la proporción de error en la clasificación, el área bajo la curva (AUC), la raíz del error cuadrático medio (RMSE) o alguna otra.
 
 ## Results
 Se entrena un modelo XGBoost que logra un accuracy de 90 %
 
 ![image](https://user-images.githubusercontent.com/111644646/207730439-d7fb8f28-a231-49bc-8fb3-2cfd23e5d483.png)
 
-El modelo XGBoost fue más preciso que los modelos de regresión logística, Random Forest y perceptron multicapa.
+El modelo  que tuvo mayor precisión fue XGBoost seguido del Random Forest ,regresión logística, y por último perceptrón multicapa.
